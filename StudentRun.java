@@ -4,7 +4,7 @@ public class StudentRun {
 
     public static void main(String[] args) {
 
-        StudentController obj = new StudentController();
+        StudentController obj = new StudentController(); //utworzenie nowego obiektu
 
     }
 }

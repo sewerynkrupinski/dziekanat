@@ -38,7 +38,7 @@ To-do list:
 Projekt w fazie rozwoju
 
 ## Inspiracja
-Projekt zainspirowany zadaniem kursu programowania, rozwinięty i ulepszony o nowe możliwośći
+Projekt zainspirowany zadaniem z kursu programowania, rozwinięty i ulepszony o nowe możliwośći
 
 ## Autor
 Stworzony przez Seweryn Krupiński 

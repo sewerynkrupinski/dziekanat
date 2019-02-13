@@ -2,10 +2,10 @@
 > Aplikacja do zarządzania listą studentów – wywoływana z konsoli 
 
 ## Spis treści
-* [Główne informacje](#glowne-informacje)
+* [Główne informacje](#glówne-informacje)
 * [Technologie](#technologie)
 * [Setup](#setup)
-* [Możliwości](#mozliwosci)
+* [Możliwości](#możliwosci)
 * [Status](#status)
 * [Inspiracja](#inspiracja)
 * [Autor](#autor)
@@ -37,7 +37,7 @@ To-do list:
 ## Status
 Projekt w fazie rozwoju
 
-## Cel
+## Inspiracja
 Projekt zainspirowany zadaniem kursu programowania, rozwinięty i ulepszony o nowe możliwośći
 
 ## Autor

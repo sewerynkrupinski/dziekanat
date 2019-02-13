@@ -2,15 +2,15 @@
 > Aplikacja do zarządzania listą studentów – wywoływana z konsoli 
 
 ## Spis treści
-* [Główne informacje](#glówne-informacje)
+* [Głowne informacje](#glowne-informacje)
 * [Technologie](#technologie)
 * [Setup](#setup)
-* [Możliwości](#możliwosci)
+* [Mozliwości](#mozliwosci)
 * [Status](#status)
 * [Inspiracja](#inspiracja)
 * [Autor](#autor)
 
-## Główne informacje
+## Głowne informacje
 Prosta aplikacja napisana w języku Java, służąca do zarządzania listą studentów. Aplikacja nie posiada interfejsu graficznego – wywoływana jest z konsoli.
 
 ## Technologie
@@ -21,7 +21,7 @@ Prosta aplikacja napisana w języku Java, służąca do zarządzania listą stud
 ## Setup
 Aplikacja składa się z 3 klas, należy je umieścić w pakunku J29 i uruchomić przez IDE
 
-## Możliwości
+## Mozliwości
 Możliwości aplikacji:
 * Dodawanie nowego studenta do listy: imię, nazwisko, nr indeksu
 * Usuwanie studentów z listy
